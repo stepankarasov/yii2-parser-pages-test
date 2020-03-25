@@ -17,7 +17,16 @@
         "php": ">=5.6.0",
         "yiisoft/yii2": "~2.0.14",
         "yiisoft/yii2-bootstrap": "~2.0.0",
-        "yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0"
+        "yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
+        "yiisoft/yii2-mongodb": "^2.1",
+        "guzzlehttp/guzzle": "~6.0",
+        "electrolinux/phpquery": "^0.9.6",
+        "mohorev/yii2-upload-behavior": "*",
+        "ext-mongodb": "*",
+        "mongosoft/yii2-mongodate-behavior": "*",
+        "yiisoft/yii2-queue": "^2.3",
+        "yiisoft/yii2-redis": "~2.0.0",
+        "ext-curl": "*"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.1.0",
